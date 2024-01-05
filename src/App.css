@@ -1,0 +1,61 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.Hero h1{
+  color: rgb(16 185 129);;
+  }
+  .Hero p{
+    color: rgb(16 185 129);;
+    }
+    .Cards p{
+      color: rgb(16 185 129);;
+    }
+    .Cards .cardthree{
+      background:  rgb(16 185 129);;
+    }
+    .Cards .cardthree p{
+      color: #fff;
+    }
+    .bg-cover{
+      background-image: url(../src/assets/images/Frame.png);
+    height: 300px;
+    
+    }
+    .best{
+      color: rgb(16 185 129);;
+    }
+    .shopbtn{
+      background:  rgb(16 185 129);;
+    }
+    .banner{
+      background:  rgb(16 185 129);;
+    }
+    .BannerBtn {
+      background-color: #fff;
+    }
+    .Blogcard{
+        background-color: white;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.Blogcard h2{
+  color: rgb(16 185 129);;
+}
+ .blogH {
+  color: rgb(16 185 129);;
+}
+.footer h2{
+  color: rgb(16 185 129);;
+}
+.bg-image {
+  background-image: url(../src/assets/images/Blob.png);
+  background-repeat: no-repeat;
+}
+.herePic{
+  background-image: url(../src/assets/images/Ellipse\ 1.png);
+  background-repeat: no-repeat;
+}
